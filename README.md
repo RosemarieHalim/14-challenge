@@ -37,10 +37,9 @@ Create an API for user's website to be able to handle unstructured data of large
 ## Process
 
 * planned out code
-* installed inquirer, mysql2, and console.table packages
-* created server.js file
-* created db folder with db, schema, and seeds sql files
+* installed packages
 * used module reference code
-* cleaned up and tested SQL code
-* worked on server.js file and inquirer code
+* added user, thought, and reaction files
+* coded the models, controllers, and routes
 * tested and fixed code
+* major issues: github not pushing files and when tried pulling, lost files and had to restart
